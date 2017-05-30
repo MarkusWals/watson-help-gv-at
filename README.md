@@ -23,12 +23,10 @@ The application is designed and trained for chatting with Watson about different
    * You can view this on your Bluemix Dashboard. Tiles will show what space you have available.
    * For example, for Services & APIS
 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](readme_images/services.PNG)
-
 ## Deploy the App
 1 Select Deploy to Bluemix
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.ibm.com/Markus-Wals/watson-helpgv)
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/MarkusWals/watson-help-gv-at)
 
 2 Log in with an existing Bluemix account or sign up.
 
