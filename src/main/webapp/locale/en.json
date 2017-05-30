@@ -1,0 +1,19 @@
+{
+  "Collapse": "Klicken zum Minimieren",
+  "Expand": "Klicken zum Erweitern",
+  "CResults": "Ergebnisse minimieren",
+  "EResults": "Ergebnisse erweitern",
+  "Type": "Gib eine Frage ein um eine Antwort von Watson zu bekommen",
+  "Understand": "Watson versteht",
+  "Something": "Frag Watson!",
+  "Description": "Watson für HELP.GV.AT, ©2016 IBM Corporation",
+  "Great": "Hier die Antworten zu diesem Thema aus Retrieve and Rank:",
+  "Intent": "Ich habe folgenden Intent verstanden: ",
+  "Log": "Das Service scheint offline zu sein, bitte probiere es in einiger Zeit nochmal oder schau mal in die Logs",
+  "WLog": "Eine workspace_id muss definiert sein!",
+  "View": "Content Details ansehen",
+  "Content": "Content File ansehen",
+  "Read": "Hier finden sie das vollständige Dokument",
+  "Disclaimer": "Text Limiting ist derzeit aktiv, sie können das in ihrer Anwendung jederzeit aus- oder einschalten.",
+  "NResponse": "Keine Antwort von Watson"
+}
